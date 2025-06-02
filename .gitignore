@@ -4,3 +4,4 @@
 code/chroma_db/*
 venv/*
 .DS_Store
+code/__pycache__/*
