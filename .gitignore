@@ -2,3 +2,5 @@
 .env
 .claude/settings.local.json
 code/chroma_db/*
+venv/*
+.DS_Store
