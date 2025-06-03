@@ -1,0 +1,708 @@
+{
+  "query": "difference-in-difference",
+  "total_papers": 100,
+  "papers": [
+    "w13538.pdf",
+    "w2171.pdf",
+    "w16210.pdf",
+    "w9722.pdf",
+    "w13481.pdf",
+    "w18147.pdf",
+    "w13732.pdf",
+    "w10321.pdf",
+    "w10114.pdf",
+    "w10344.pdf",
+    "w9057.pdf",
+    "w9246.pdf",
+    "w17545.pdf",
+    "w10054.pdf",
+    "w14501.pdf",
+    "w1156.pdf",
+    "w9068.pdf",
+    "w27083.pdf",
+    "w1340.pdf",
+    "w19460.pdf",
+    "w10551.pdf",
+    "w10956.pdf",
+    "w10690.pdf",
+    "w9605.pdf",
+    "w30399.pdf",
+    "w9175.pdf",
+    "w9802.pdf",
+    "w18936.pdf",
+    "w14054.pdf",
+    "w22768.pdf",
+    "w26958.pdf",
+    "w9225.pdf",
+    "w11169.pdf",
+    "w28429.pdf",
+    "w8507.pdf",
+    "w12365.pdf",
+    "w10651.pdf",
+    "w10101.pdf",
+    "w10287.pdf",
+    "w13647.pdf",
+    "w13283.pdf",
+    "w16943.pdf",
+    "w10009.pdf",
+    "w8568.pdf",
+    "w15545.pdf",
+    "w10397.pdf",
+    "w11624.pdf",
+    "w13372.pdf",
+    "w8698.pdf",
+    "w9001.pdf",
+    "w7660.pdf",
+    "w10041.pdf",
+    "w12107.pdf",
+    "w7604.pdf",
+    "w11516.pdf",
+    "w11380.pdf",
+    "w14714.pdf",
+    "w15087.pdf",
+    "w10548.pdf",
+    "w11292.pdf",
+    "w10417.pdf",
+    "w10403.pdf",
+    "w10914.pdf",
+    "w9363.pdf",
+    "w10131.pdf",
+    "w12957.pdf",
+    "w14804.pdf",
+    "w11430.pdf",
+    "w11083.pdf",
+    "w11002.pdf",
+    "w10978.pdf",
+    "w10086.pdf",
+    "w25450.pdf",
+    "w11168.pdf",
+    "w9534.pdf",
+    "w11323.pdf",
+    "w11922.pdf",
+    "w5770.pdf",
+    "w12514.pdf",
+    "w11849.pdf",
+    "w10471.pdf",
+    "w2979.pdf",
+    "w2083.pdf",
+    "w17477.pdf",
+    "w14654.pdf",
+    "w10482.pdf",
+    "w3431.pdf",
+    "w11861.pdf",
+    "w2601.pdf",
+    "w9403.pdf",
+    "w12706.pdf",
+    "w9527.pdf",
+    "w12563.pdf",
+    "w10472.pdf",
+    "w10473.pdf",
+    "w12798.pdf",
+    "w7388.pdf",
+    "w14544.pdf",
+    "w7609.pdf",
+    "w10687.pdf"
+  ],
+  "detailed_matches": {
+    "w11169.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nEXPLAINING RETURNS WITH CASH-FLOW PROXIES\nPeter Hecht\nTuomo Vuolteenaho\nWorking Paper 11169\nhttp://www.nber.org/papers/w11169\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massac...",
+        "score": 0.16191553006679799
+      }
+    ],
+    "w10687.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nLAW AND FIRMS\u2019 ACCESS TO FINANCE\nThorsten Beck\nAsli Demirg\u00fc\u00e7-Kunt\nRoss Levine\nWorking Paper 10687\nhttp://www.nber.org/papers/w10687\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 ...",
+        "score": 0.1618183166154982
+      }
+    ],
+    "w9605.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nEXPECTED RETURNS AND EXPECTED DIVIDEND GROWTH\nMartin Lettau\nSydney C. Ludvigson\nWorking Paper 9605\nhttp://www.nber.org/papers/w9605\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 ...",
+        "score": 0.16144076536794624
+      }
+    ],
+    "w12107.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nPAY FOR SHORT-TERM PERFORMANCE:\nEXECUTIVE COMPENSATION IN SPECULATIVE MARKETS\nPatrick Bolton\nJose Scheinkman\nWei Xiong\nWorking Paper 12107\nhttp://www.nber.org/papers/w12107\nN...",
+        "score": 0.1612601152318336
+      }
+    ],
+    "w15545.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTRACTABILITY IN INCENTIVE CONTRACTING\nAlex Edmans\nXavier Gabaix\nWorking Paper 15545\nhttp://www.nber.org/papers/w15545\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts ...",
+        "score": 0.16056638646260868
+      }
+    ],
+    "w14804.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nMAXING OUT: STOCKS AS LOTTERIES AND THE CROSS-SECTION OF EXPECTED\nRETURNS\nTuran G. Bali\nNusret Cakici\nRobert F. Whitelaw\nWorking Paper 14804\nhttp://www.nber.org/papers/w14804...",
+        "score": 0.16036275969268568
+      }
+    ],
+    "w9722.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nEXECUTIVE COMPENSATION AND\nSHORT-TERMIST BEHAVIOR\nIN SPECULATIVE MARKETS\nPatrick Bolton\nJos\u00e9 Scheinkman\nWei Xiong\nWorking Paper 9722\nhttp://www.nber.org/papers/w9722\nNATIONAL...",
+        "score": 0.15997153587743237
+      }
+    ],
+    "w10009.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nFINANCIAL ASSET RETURNS, DIRECTION-OF-CHANGE FORECASTING,\nAND VOLATILITY DYNAMICS\nPeter F. Christoffersen\nFrancis X. Diebold\nWorking Paper 10009\nhttp://www.nber.org/papers/w1...",
+        "score": 0.15976182614899956
+      }
+    ],
+    "w10482.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nASSESSING THE ECONOMIC GAINS\nFROM TELECOM COMPETITION\nRichard N. Clarke\nKevin A. Hassett\nZoya Ivanova\nLaurence Kotlikoff \nWorking Paper 10482\nhttp://www.nber.org/papers/w1048...",
+        "score": 0.1597288053693255
+      }
+    ],
+    "w8507.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nREPATRIATION TAXES AND DIVIDEND DISTORTIONS\nMihir A. Desai\nC. Fritz Foley\nJames R. Hines Jr.\nWorking Paper 8507\nhttp://www.nber.org/papers/w8507\nNATIONAL BUREAU OF ECONOMIC R...",
+        "score": 0.15952519486926411
+      }
+    ],
+    "w10321.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTAXATION AND CORPORATE PAYOUT POLICY\nJames Poterba\nWorking Paper 10321\nhttp://www.nber.org/papers/w10321\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue\nCambri...",
+        "score": 0.15948589181011355
+      }
+    ],
+    "w28429.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nDATA-DRIVEN INCENTIVE ALIGNMENT IN CAPITATION SCHEMES\nMark Braverman\nSylvain Chassang\nWorking Paper 28429\nhttp://www.nber.org/papers/w28429\nNATIONAL BUREAU OF ECONOMIC RESEAR...",
+        "score": 0.15943177326125876
+      }
+    ],
+    "w9057.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nEXPECTATIONS AND EXPATRIATIONS: TRACING THE CAUSES\nAND CONSEQUENCES OF CORPORATE INVERSIONS\nMihir A. Desai\nJames R. Hines Jr.\nWorking Paper 9057\nhttp://www.nber.org/papers/w9...",
+        "score": 0.15940856893122393
+      }
+    ],
+    "w2979.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nINCENTIVES, INFORMATION, AND ORGANIZATIONAL DESIGN\nJoseph E. Stiglitz\nWorking Paper No. 2979\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue\nCambridge, MA 0123...",
+        "score": 0.1593487017787597
+      }
+    ],
+    "w8568.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHE GEOGRAPHIC REACH OF MARKET AND NON-MARKET CHANNELS OF\nTECHNOLOGY TRANSFER: COMPARING CITATIONS AND LICENSES OF\nUNIVERSITY PATENTS\nDavid C. Mowery\nArvids A. Ziedonis\nWorki...",
+        "score": 0.1593046944825287
+      }
+    ],
+    "w12514.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTEMPORARY INVESTMENT TAX INCENTIVES:\nTHEORY WITH EVIDENCE FROM BONUS DEPRECIATION\nChristopher House\nMatthew D. Shapiro\nWorking Paper 12514\nhttp://www.nber.org/papers/w12514\nN...",
+        "score": 0.15905072695557718
+      }
+    ],
+    "w8698.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nDIVIDEND POLICY INSIDE THE FIRM\nMihir A. Desai\nC. Fritz Foley\nJames R. Hines Jr.\nWorking Paper 8698\nhttp://www.nber.org/papers/w8698\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050...",
+        "score": 0.1590074464252826
+      }
+    ],
+    "w16210.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nA LITNER MODEL OF PAYOUT AND MANAGERIAL RENTS\nBart M. Lambrecht\nStewart C. Myers\nWorking Paper 16210\nhttp://www.nber.org/papers/w16210\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n10...",
+        "score": 0.15899558093490357
+      }
+    ],
+    "w10956.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHE ECONOMICS OF TECHNOLOGY SHARING:\nOPEN SOURCE AND BEYOND\nJosh Lerner\nJean Tirole\nWorking Paper 10956\nhttp://www.nber.org/papers/w10956\nNATIONAL BUREAU OF ECONOMIC RESEARCH...",
+        "score": 0.15899368557117635
+      }
+    ],
+    "w22768.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nPATENT DISCLOSURES AND STANDARD-SETTING\nJosh Lerner\nHaris Tabakovic\nJean Tirole\nWorking Paper 22768\nhttp://www.nber.org/papers/w22768\nNATIONAL BUREAU OF ECONOMIC RESEARCH \n10...",
+        "score": 0.15898322356998482
+      }
+    ],
+    "w15087.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nEDUCATIONAL CHOICES, SUBJECTIVE EXPECTATIONS, AND CREDIT CONSTRAINTS\nOrazio Attanasio\nKatja Kaufmann\nWorking Paper 15087\nhttp://www.nber.org/papers/w15087\nNATIONAL BUREAU OF ...",
+        "score": 0.15891686654749534
+      }
+    ],
+    "w9802.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nINCENTIVES IN MARKETS, FIRMS AND GOVERNMENTS     \nDaron Acemoglu\nMichael Kremer\nAtif Mian\nWorking Paper 9802\nhttp://www.nber.org/papers/w9802\nNATIONAL BUREAU OF ECONOMIC RESE...",
+        "score": 0.15891144855096306
+      }
+    ],
+    "w13538.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nAN AGENCY THEORY OF DIVIDEND TAXATION\nRaj Chetty\nEmmanuel Saez\nWorking Paper 13538\nhttp://www.nber.org/papers/w13538\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts A...",
+        "score": 0.15887852777454353
+      }
+    ],
+    "w1156.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHE ECONOMICS OF PRICE SCISSORS\nRaah Kumar Sah\nJoseph E. Stiglitz\nWorking Paper No. 1156\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue\nCambridge MA 02138\nJun...",
+        "score": 0.15880235124133413
+      }
+    ],
+    "w9225.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nWHY DO EMPLOYERS PAY FOR COLLEGE?\nPeter Cappelli\nWorking Paper 9225\nhttp://www.nber.org/papers/w9225\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue\nCambridge,...",
+        "score": 0.15878378129530354
+      }
+    ],
+    "w10131.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHE PRICE IS (ALMOST) RIGHT\nRandolph B. Cohen\nChristopher Polk\nTuomo Vuolteenaho\nWorking Paper 10131\nhttp://www.nber.org/papers/w10131\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n10...",
+        "score": 0.1587246975081375
+      }
+    ],
+    "w11624.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nVENTURE CAPITAL CONTRACTING AND\nSYNDICATION: AN EXPERIMENT IN\nCOMPUTATIONAL CORPORATE FINANCE\nZsuzsanna Fluck\nKedran Garrison\nStewart C. Myers\nWorking Paper 11624\nhttp://www....",
+        "score": 0.15856725450426204
+      }
+    ],
+    "w9363.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHE SCOPE OF OPEN SOURCE LICENSING\nJosh Lerner\nJean Tirole\nWorking Paper 9363\nhttp://www.nber.org/papers/w9363\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue\n...",
+        "score": 0.158411969382302
+      }
+    ],
+    "w18936.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nBONUS CULTURE: COMPETITIVE PAY, SCREENING, AND MULTITASKING\nRoland B\u00e9nabou\nJean Tirole\nWorking Paper 18936\nhttp://www.nber.org/papers/w18936\nNATIONAL BUREAU OF ECONOMIC RESEA...",
+        "score": 0.15827325032838968
+      }
+    ],
+    "w11380.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nULTRA HIGH FREQUENCY VOLATILITY ESTIMATION\nWITH DEPENDENT MICROSTRUCTURE NOISE\nYacine A\u00eft-Sahalia\nPer A. Mykland\nLan Zhang\nWorking Paper 11380\nhttp://www.nber.org/papers/w113...",
+        "score": 0.15819630792610523
+      }
+    ],
+    "w10651.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nON THE IMPORTANCE OF MEASURING PAYOUT YIELD:\nIMPLICATIONS FOR EMPIRICAL ASSET PRICING\nJacob Boudoukh\nRoni Michaely\nMatthew Richardson\nMichael Roberts\nWorking Paper 10651\nhttp...",
+        "score": 0.1581915179473766
+      }
+    ],
+    "w10690.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nCORPORATE TAX EVASION WITH AGENCY COSTS\nKeith J. Crocker\nJoel Slemrod\nWorking Paper 10690\nhttp://www.nber.org/papers/w10690\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachu...",
+        "score": 0.15813853612705328
+      }
+    ],
+    "w10054.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nCORPORATE EARNINGS AND THE EQUITY PREMIUM\nFrancis A. Longstaff\nMonika Piazzesi\nWorking Paper 10054\nhttp://www.nber.org/papers/w10054\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050...",
+        "score": 0.1580457004918187
+      }
+    ],
+    "w17545.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nHOW DO INFORMAL AGREEMENTS AND RENEGOTIATION SHAPE CONTRACTUAL\nREFERENCE POINTS?\nErnst Fehr\nOliver D. Hart\nChristian Zehnder\nWorking Paper 17545\nhttp://www.nber.org/papers/w1...",
+        "score": 0.15802192554946168
+      }
+    ],
+    "w7388.pdf": [
+      {
+        "text": "NBER WORKING PAPER SEIUES\nON THE DESIGN OF HIERARCHIES:\nCOORDINATION VERSUS SPECIALIZATION\nOliver Hart\nJohn Moore\nWorking Paper 7388\nhttp://www.nber.org/papers/w73 88\nNATIONAL BUREAU OF ECONOMIC RESEA...",
+        "score": 0.15799975515375492
+      }
+    ],
+    "w13481.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nREFERENCE POINTS AND THE THEORY OF THE FIRM\nOliver D. Hart\nWorking Paper 13481\nhttp://www.nber.org/papers/w13481\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenu...",
+        "score": 0.15799642138710104
+      }
+    ],
+    "w10397.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nAGREEING NOW TO AGREE LATER:\nCONTRACTS THAT RULE OUT BUT DO NOT RULE IN\nOliver Hart\nJohn Moore\nWorking Paper 10397\nhttp://www.nber.org/papers/w10397\nNATIONAL BUREAU OF ECONOM...",
+        "score": 0.15793399688693674
+      }
+    ],
+    "w9068.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nMANAGERIAL POWER AND RENT EXTRACTION\nIN THE DESIGN OF EXECUTIVE COMPENSATION\nLucian Arye Bebchuk\nJesse M. Fried\nDavid I. Walker\nWorking Paper 9068\nhttp://www.nber.org/papers/...",
+        "score": 0.15787952036890934
+      }
+    ],
+    "w1340.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nPATENTS AS OPTIONS: SOME ESTIMATES OF\nTHE VALUEOF HOLDINGEUROPEANPATENTSTOCKS\nAriel Pakes\nWorking Paper No. 1340\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenu...",
+        "score": 0.15778999684351452
+      }
+    ],
+    "w10978.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHEFT AND TAXES\nMihir A. Desai\nAlexander Dyck\nLuigi Zingales\nWorking Paper 10978\nhttp://www.nber.org/papers/w10978\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Ave...",
+        "score": 0.1577813444653747
+      }
+    ],
+    "w10471.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nCORPORATE TAX AVOIDANCE AND HIGH POWERED INCENTIVES\nMihir A. Desai\nDhammika Dharmapala\nWorking Paper 10471\nhttp://www.nber.org/papers/w10471\nNATIONAL BUREAU OF ECONOMIC RESEA...",
+        "score": 0.15776223567658446
+      }
+    ],
+    "w9175.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nEFFICIENT PATENT POOLS\nJosh Lerner\nJean Tirole\nWorking Paper 9175\nhttp://www.nber.org/papers/w9175\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue\nCambridge, M...",
+        "score": 0.15768749665775283
+      }
+    ],
+    "w10548.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nSTOCK PRICES, NEWS AND ECONOMIC FLUCTUATIONS\nPaul Beaudry\nFranck Portier\nWorking Paper 10548\nhttp://www.nber.org/papers/w10548\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massa...",
+        "score": 0.15763932521869034
+      }
+    ],
+    "w7660.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nFINANCIAL CONTRACTING THEORY MEETS THE REAL WORLD:\nAN EMPIRICAL ANALYSIS OF VENTURE CAPITAL CONTRACTS\nSteven N. Kaplan\nPer Str\u00f6mberg\nWorking Paper 7660\nhttp://www.nber.org/pa...",
+        "score": 0.1576064237346531
+      }
+    ],
+    "w9001.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nENTREPRENEURSHIP IN EQUILIBRIUM\nDenis Gromb\nDavid Scharfstein\nWorking Paper 9001\nhttp://www.nber.org/papers/w9001\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Aven...",
+        "score": 0.15758511941280468
+      }
+    ],
+    "w10101.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nSTAKEHOLDERS, TRANSPARENCY AND CAPITAL STRUCTURE\nAndres Almazan\nJavier Suarez\nSheridan Titman\nWorking Paper 10101\nhttp://www.nber.org/papers/w10101\nNATIONAL BUREAU OF ECONOMI...",
+        "score": 0.15756954691149275
+      }
+    ],
+    "w10473.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nRETAIL ELECTRICITY COMPETITION\nPaul L. Joskow\nJean Tirole\nWorking Paper 10473\nhttp://www.nber.org/papers/w10473\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue...",
+        "score": 0.15756006140137296
+      }
+    ],
+    "w11323.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nEXPECTED RETURNS, YIELD SPREADS,\nAND ASSET PRICING TESTS\nMurillo Campello\nLong Chen\nLu Zhang\nWorking Paper 11323\nhttp://www.nber.org/papers/w11323\nNATIONAL BUREAU OF ECONOMIC...",
+        "score": 0.15733139879219968
+      }
+    ],
+    "w14501.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nCONTRACTS AS REFERENCE POINTS - EXPERIMENTAL EVIDENCE\nErnst Fehr\nOliver D. Hart\nChristian Zehnder\nWorking Paper 14501\nhttp://www.nber.org/papers/w14501\nNATIONAL BUREAU OF ECO...",
+        "score": 0.1572593759282996
+      }
+    ],
+    "w14544.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nMISPRICING OF S&P 500 INDEX OPTIONS\nGeorge M. Constantinides\nJens Carsten Jackwerth\nStylianos Perrakis\nWorking Paper 14544\nhttp://www.nber.org/papers/w14544\nNATIONAL BUREAU O...",
+        "score": 0.15722008758915543
+      }
+    ],
+    "w10344.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nDISSECTING TRADE: FIRMS, INDUSTRIES, AND EXPORT DESTINATIONS\nJonathan Eaton\nSamuel Kortum\nFrancis Kramarz\nWorking Paper 10344\nhttp://www.nber.org/papers/w10344\nNATIONAL BUREA...",
+        "score": 0.1572054319540307
+      }
+    ],
+    "w11922.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nOVERCONFIDENCE, SUBJECTIVE PERCEPTION\nAND PRICING BEHAVIOR\nPierpaolo Benigno\nAnastasios G. Karantounias\nWorking Paper 11922\nhttp://www.nber.org/papers/w11922\nNATIONAL BUREAU ...",
+        "score": 0.15717389511229976
+      }
+    ],
+    "w14714.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nFINANCIAL PATENTING IN EUROPE\nBronwyn H. Hall\nGrid Thoma\nSalvatore Torrisi\nWorking Paper 14714\nhttp://www.nber.org/papers/w14714\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Mas...",
+        "score": 0.15716726249996538
+      }
+    ],
+    "w27083.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nSTEERING INCENTIVES OF PLATFORMS:\nEVIDENCE FROM THE TELECOMMUNICATIONS INDUSTRY\nBrian McManus\nAviv Nevo\nZachary Nolan\nJonathan W. Williams\nWorking Paper 27083\nhttp://www.nber...",
+        "score": 0.1571459613415991
+      }
+    ],
+    "w10114.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nPATENTS AND R&D AS REAL OPTIONS\nEduardo S. Schwartz\nWorking Paper 10114\nhttp://www.nber.org/papers/w10114\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue\nCambr...",
+        "score": 0.15711016616216872
+      }
+    ],
+    "w14054.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nDO PESO PROBLEMS EXPLAIN THE RETURNS TO THE CARRY TRADE?\nA. Craig Burnside\nMartin S. Eichenbaum\nIsaac Kleshchelski\nSergio Rebelo\nWorking Paper 14054\nhttp://www.nber.org/paper...",
+        "score": 0.15710127014317457
+      }
+    ],
+    "w9246.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nINFORMATION CONTENT OF EQUITY ANALYST REPORTS\nPaul Asquith\nMichael B. Mikhail\nAndrea S. Au\nWorking Paper 9246\nhttp://www.nber.org/papers/w9246\nNATIONAL BUREAU OF ECONOMIC RES...",
+        "score": 0.15703137433075437
+      }
+    ],
+    "w2083.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHE VALUE OF PATENTS AS\nINDICATORS OF INVENTIVE ACTIVITY\nZvi Griliches\nAriel Pakes\nBronwyn H. Hall\nWorking Paper No. 2083\nNATIONAL BUREAU dE ECONOMIC RESEARCH\n1050 Massachuse...",
+        "score": 0.15701149537543888
+      }
+    ],
+    "w26958.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nWHY ARE CORPORATE PAYOUTS SO HIGH IN THE 2000S?\nKathleen Kahle\nRen\u00e9 M. Stulz\nWorking Paper 26958\nhttp://www.nber.org/papers/w26958\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 M...",
+        "score": 0.15696016240996763
+      }
+    ],
+    "w10403.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nINCENTIVES IN CORPORATIONS:\nEVIDENCE FROM THE AMERICAN WHALING INDUSTRY\nEric Hilt\nWorking Paper 10403\nhttp://www.nber.org/papers/w10403\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1...",
+        "score": 0.15695950752250312
+      }
+    ],
+    "w10086.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nDOES THE FAILURE OF THE EXPECTATIONS HYPOTHESIS\nMATTER FOR LONG-TERM INVESTORS?\nAntonios Sangvinatsos\nJessica A. Wachter\nWorking Paper 10086\nhttp://www.nber.org/papers/w10086...",
+        "score": 0.1569066951678292
+      }
+    ],
+    "w13283.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nINSTITUTIONAL TAX CLIENTELES AND PAYOUT POLICY\nMihir A. Desai\nLi Jin\nWorking Paper 13283\nhttp://www.nber.org/papers/w13283\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachus...",
+        "score": 0.15688088475570136
+      }
+    ],
+    "w3431.pdf": [
+      {
+        "text": "NBER VORXING PAPERS SERIES\nA THEORY OF CORPORATE FINANCIAL STRUCTURE\nBASED ON THE SENIORITY OF ClAIMS\nOliverHart\nJohn Moore\nVorking Paper No. 3431\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachuset...",
+        "score": 0.15686869174800705
+      }
+    ],
+    "w2601.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES \nVertical Restraints and Producers' Competition \nPatrick Rey \nJoseph Stiglitz \nWorking Paper No. 2601 \nNATIONAL BUREAU OF ECONOMIC RESEARCH \n1050 Massachusetts Avenue \nCambri...",
+        "score": 0.15683823207118727
+      }
+    ],
+    "w7604.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nDO CEOs SET THEIR OWN PAY?\nTHE ONES WITHOUT PRINCIPALS DO\nMarianne Bertrand\nSendhil Mullainathan\nWorking Paper 7604\nhttp://www.nber.org/papers/w7604\nNATIONAL BUREAU OF ECONOM...",
+        "score": 0.1568186953680328
+      }
+    ],
+    "w25450.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHE INSURANCE IS THE LEMON:\nFAILING TO INDEX CONTRACTS\nBarney Hartman-Glaser\nBenjamin M. H\u00e9bert\nWorking Paper 25450\nhttp://www.nber.org/papers/w25450\nNATIONAL BUREAU OF ECONO...",
+        "score": 0.15680813347515205
+      }
+    ],
+    "w11292.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nCONTRACTIBILITY AND THE DESIGN OF RESEARCH AGREEMENTS\nJosh Lerner\nUlrike Malmendier\nWorking Paper 11292\nhttp://www.nber.org/papers/w11292\nNATIONAL BUREAU OF ECONOMIC RESEARCH...",
+        "score": 0.15679738537646457
+      }
+    ],
+    "w9527.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nCEO TURNOVER AND \nFOREIGN MARKET PARTICIPATION\nBruce A. Blonigen\nRossitza B. Wooster\nWorking Paper 9527\nhttp://www.nber.org/papers/w9527\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n...",
+        "score": 0.1567249717464411
+      }
+    ],
+    "w11430.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nSUNK COSTS AND REAL OPTIONS IN ANTITRUST\nRobert S. Pindyck\nWorking Paper 11430\nhttp://www.nber.org/papers/w11430\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenu...",
+        "score": 0.1566903184785212
+      }
+    ],
+    "w12563.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nENTRY AND PATENTING IN THE SOFTWARE INDUSTRY\nIain M. Cockburn\nMegan J. MacGarvie\nWorking Paper 12563\nhttp://www.nber.org/papers/w12563\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n10...",
+        "score": 0.15667072549392239
+      }
+    ],
+    "w10287.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nMANDATORY UNBUNDLING AND IRREVERSIBLE INVESTMENT\nIN TELECOM NETWORKS\nRobert S. Pindyck\nWorking Paper 10287\nhttp://www.nber.org/papers/w10287\nNATIONAL BUREAU OF ECONOMIC RESEA...",
+        "score": 0.15662560931137712
+      }
+    ],
+    "w18147.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nREAL ASSETS AND CAPITAL STRUCTURE\nMurillo Campello\nErasmo Giambona\nWorking Paper 18147\nhttp://www.nber.org/papers/w18147\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachuset...",
+        "score": 0.1566230513740821
+      }
+    ],
+    "w30399.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHE STEERING INCENTIVES OF GATEKEEPERS \nIN THE TELECOMMUNICATIONS INDUSTRY\nBrian McManus\nAviv Nevo\nZachary Nolan\nJonathan W. Williams\nWorking Paper 30399\nhttp://www.nber.org/...",
+        "score": 0.15662084822070127
+      }
+    ],
+    "w10551.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\n\u201cSUCCESS TAXES,\u201d ENTREPRENEURIAL ENTRY,\nAND INNOVATION\nWilliam M. Gentry\nR. Glenn Hubbard\nWorking Paper 10551\nhttp://www.nber.org/papers/w10551\nNATIONAL BUREAU OF ECONOMIC RE...",
+        "score": 0.15655351762662614
+      }
+    ],
+    "w10914.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nPREDICTING VOLATILITY:\nGETTING THE MOST OUT OF RETURN DATA\nSAMPLED AT DIFFERENT FREQUENCIES\nEric Ghysels\nPedro Santa-Clara\nRossen Valkanov\nWorking Paper 10914\nhttp://www.nber...",
+        "score": 0.1565528457732577
+      }
+    ],
+    "w11002.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nEXECUTIVE FINANCIAL INCENTIVES AND PAYOUT POLICY:\nFIRM RESPONSES TO THE 2003 DIVIDEND TAX CUT\nJeffrey R. Brown\nNellie Liang\nScott Weisbenner\nWorking Paper 11002\nhttp://www.nb...",
+        "score": 0.15652994849471746
+      }
+    ],
+    "w17477.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nSTICKING WITH WHAT (BARELY) WORKED\nLars Lefgren\nBrennan Platt\nJoseph Price\nWorking Paper 17477\nhttp://www.nber.org/papers/w17477\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Mas...",
+        "score": 0.1565097225524072
+      }
+    ],
+    "w10417.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nLEGAL INSTITUTIONS AND FINANCIAL DEVELOPMENT\nThorsten Beck\nRoss Levine\nWorking Paper 10417\nhttp://www.nber.org/papers/w10417\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massach...",
+        "score": 0.15648420129268978
+      }
+    ],
+    "w11083.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nA DYNAMIC THEORY OF OPTIMAL CAPITAL\nSTRUCTURE AND EXECUTIVE COMPENSATION\nAndrew Atkeson\nHarold L.Cole\nWorking Paper 11083\nhttp://www.nber.org/papers/w11083\nNATIONAL BUREAU OF...",
+        "score": 0.15648237317506303
+      }
+    ],
+    "w9534.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nMERCHANT TRANSMISSION INVESTMENT\nPaul L. Joskow\nJean Tirole\nWorking Paper 9534\nhttp://www.nber.org/papers/w9534\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue...",
+        "score": 0.15647170336359306
+      }
+    ],
+    "w12706.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nCONTRACTS AS REFERENCE POINTS\nOliver Hart\nJohn Moore\nWorking Paper 12706\nhttp://www.nber.org/papers/w12706\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue\nCamb...",
+        "score": 0.156470975902941
+      }
+    ],
+    "w12798.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nO                                                                              OPTIMAL EXECUTIVE COMPENSATION VS. MANAGERIAL POWER: \n \n                                       ...",
+        "score": 0.15646763708846048
+      }
+    ],
+    "w13647.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nFIRMS' STAKEHOLDERS AND THE COSTS OF TRANSPARENCY\nAndres Almazan\nJavier Suarez\nSheridan Titman\nWorking Paper 13647\nhttp://www.nber.org/papers/w13647\nNATIONAL BUREAU OF ECONOM...",
+        "score": 0.15643928801523785
+      }
+    ],
+    "w9403.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nMANAGERIAL INCENTIVES AND THE INTERNATIONAL\nORGANIZATION OF PRODUCTION\nGene M. Grossman\nElhanan Helpman\nWorking Paper 9403\nhttp://www.nber.org/papers/w9403 \nNATIONAL BUREAU O...",
+        "score": 0.15642664449308702
+      }
+    ],
+    "w11861.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nCAN STANDARD PREFERENCES EXPLAIN\nTHE PRICES OF OUT OF THE MONEY S&P 500 PUT OPTIONS\nLuca Benzoni\nPierre-Collin Dufresne\nRobert S. Goldstein\nWorking Paper 11861\nhttp://www.nbe...",
+        "score": 0.15641198823753505
+      }
+    ],
+    "w11516.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nDO STRONGER INTELLECTUAL PROPERTY RIGHTS\nINCREASE INTERNATIONAL TECHNOLOGY TRANSFER?\nEMPIRICAL EVIDENCE FROM U.S. FIRM-LEVEL DATA\nLee Branstetter\nRaymond Fisman\nC. Fritz Fole...",
+        "score": 0.1563512894172267
+      }
+    ],
+    "w16943.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nTHE CIRCULATION OF IDEAS IN FIRMS AND MARKETS\nThomas F. Hellmann\nEnrico C. Perotti\nWorking Paper 16943\nhttp://www.nber.org/papers/w16943\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n...",
+        "score": 0.15630995463109418
+      }
+    ],
+    "w13372.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nA CALIBRATABLE MODEL OF OPTIMAL CEO INCENTIVES IN MARKET EQUILIBRIUM\nAlex Edmans\nXavier Gabaix\nAugustin Landier\nWorking Paper 13372\nhttp://www.nber.org/papers/w13372\nNATIONAL...",
+        "score": 0.15626460703124517
+      }
+    ],
+    "w10472.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nRELIABILITY AND COMPETITIVE ELECTRICITY MARKETS\nPaul L. Joskow\nJean Tirole\nWorking Paper 10472\nhttp://www.nber.org/papers/w10472\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Mas...",
+        "score": 0.1562604716271675
+      }
+    ],
+    "w19460.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nHYBRID TAIL RISK AND EXPECTED STOCK RETURNS:\nWHEN DOES THE TAIL WAG THE DOG?\nTuran G. Bali\nNusret Cakici\nRobert F. Whitelaw\nWorking Paper 19460\nhttp://www.nber.org/papers/w19...",
+        "score": 0.15625667162261253
+      }
+    ],
+    "w13732.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nSTOCK-BASED COMPENSATION AND CEO (DIS)INCENTIVES\nEfraim Benmelech\nEugene Kandel\nPietro Veronesi\nWorking Paper 13732\nhttp://www.nber.org/papers/w13732\nNATIONAL BUREAU OF ECONO...",
+        "score": 0.15623575462457476
+      }
+    ],
+    "w11849.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nINERTIA AND INCENTIVES:\nBRIDGING ORGANIZATIONAL ECONOMICS\nAND ORGANIZATIONAL THEORY\nRebecca Henderson\nSarah Kaplan\nWorking Paper 11849\nhttp://www.nber.org/papers/w11849\nNATIO...",
+        "score": 0.15620422609889031
+      }
+    ],
+    "w2171.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nARE PRICES TOO STICKY?\nLaurence Ball\nDavid Romer\nWorking Paper No. 2171.\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue\nCambridge, MA 02138\nFebruary 1987\nWe a...",
+        "score": 0.15616814277921479
+      }
+    ],
+    "w12365.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nWHY HAS CEO PAY INCREASED SO MUCH?\nXavier Gabaix\nAugustin Landier\nWorking Paper 12365\nhttp://www.nber.org/papers/w12365\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusett...",
+        "score": 0.15616296742421976
+      }
+    ],
+    "w11168.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nWHAT IS THE IMPACT OF SOFTWARE PATENT SHIFTS?:\nEVIDENCE FROM LOTUS V. BORLAND\nJosh Lerner\nFeng Zhu\nWorking Paper 11168\nhttp://www.nber.org/papers/w11168\nNATIONAL BUREAU OF EC...",
+        "score": 0.15616054735303986
+      }
+    ],
+    "w7609.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nEXPECTATIONS HYPOTHESES TESTS\nGeert Bekaert\nRobert J. Hodrick\nWorking Paper 7609\nhttp://www.nber.org/papers/w7609\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Aven...",
+        "score": 0.15614701426166452
+      }
+    ],
+    "w14654.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nSATISFICING CONTRACTS\nPatrick Bolton\nAntoine Faure-Grimaud\nWorking Paper 14654\nhttp://www.nber.org/papers/w14654\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenu...",
+        "score": 0.156143738201296
+      }
+    ],
+    "w10041.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nA MODEL OF R&D VALUATION AND\nTHE DESIGN OF RESEARCH INCENTIVES\nJason C. Hsu\nEduardo S. Schwartz\nWorking Paper 10041\nhttp://www.nber.org/papers/w10041\nNATIONAL BUREAU OF ECONO...",
+        "score": 0.15610990200846883
+      }
+    ],
+    "w5770.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nESTIMAT~G THE WELFARE EFFECTS\nOF DIGITAL INFRASTRUCTURE\nShane M, Greenstein\nPablo T. Spiller\nWorking Paper 5770\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050 Massachusetts Avenue...",
+        "score": 0.1560226466727098
+      }
+    ],
+    "w12957.pdf": [
+      {
+        "text": "NBER WORKING PAPER SERIES\nINFLATION ILLUSION, CREDIT, AND ASSET PRICING\nMonika Piazzesi\nMartin Schneider\nWorking Paper 12957\nhttp://www.nber.org/papers/w12957\nNATIONAL BUREAU OF ECONOMIC RESEARCH\n1050...",
+        "score": 0.15601193381556527
+      }
+    ]
+  }
+}
